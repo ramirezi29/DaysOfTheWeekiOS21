@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DaysOfTheWeek
+//  DaysOfTheWeeknumber2
 //
 //  Created by Ivan Ramirez on 8/28/18.
 //  Copyright © 2018 ramcomw. All rights reserved.

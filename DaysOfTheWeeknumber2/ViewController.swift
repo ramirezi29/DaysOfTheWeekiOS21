@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  DaysOfTheWeek
+//  DaysOfTheWeeknumber2
 //
 //  Created by Ivan Ramirez on 8/28/18.
 //  Copyright © 2018 ramcomw. All rights reserved.
@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    
+    
 
 }
 
